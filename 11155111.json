@@ -1,6 +1,13 @@
 [
     {
-        "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+        "address": "",
+        "decimals": 18,
+        "name": "ETH",
+        "symbol": "ETH",
+        "logoURI": "https://raw.githubusercontent.com/MetisProtocol/mutisender-assets/main/imgs/ethereum.webp"
+    },
+    {
+        "address": "0x7f49160EB9BB068101d445fe77E17ecDb37D0B47",
         "decimals": 18,
         "name": "Metis Token",
         "symbol": "METIS",
